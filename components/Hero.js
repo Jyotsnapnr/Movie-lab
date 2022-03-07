@@ -6,7 +6,7 @@ function Hero() {
   return (
     <div className="text-center bg-white pb-2 pt-0">
 <div className="w-60 mx-auto">
-    <Image src={"/undraw_horror_movie_3988.png"} width={100} height={100} layout="responsive"/>
+    <Image src={"/undraw_horror_movie_3988.png"} width={100} height={100} layout="responsive" alt="img"/>
 </div>
 
 <h1 className="text-2xl text-gray-700 uppercase font-bold">MovieLab</h1>
